@@ -1,8 +1,9 @@
 # Which-cat-are-you-based-on-your-birth-month?
 
-## [Test this app yourself][(https://luciapannunzio.github.io/Which-cat-are-you-based-on-your-birth-month/)]
+## [Test this app yourself]( https://luciapannunzio.github.io/Which-cat-are-you-based-on-your-birth-month/)
 
-![Screenshot from 2022-06-08 09-23-05](https://user-images.githubusercontent.com/89199990/172556569-51ad8fee-5c50-425a-b9be-e0f5e70c5561.png)
+![cats](https://user-images.githubusercontent.com/89199990/172557056-fae69731-e65e-4c38-8c60-0bbf0c6fefe4.png)
+
 
 
 
