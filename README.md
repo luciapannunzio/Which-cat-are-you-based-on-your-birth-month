@@ -1,8 +1,8 @@
-# Which-cat-are-you-based-on-your-birth-month-?
+# To-Do-List
 
-## [Test this app yourself](https://luciapannunzio.github.io/Which-cat-are-you-based-on-your-birth-month-/)
+## [Test this app yourself]([https://luciapannunzio.github.io/To-Do-List/)])
 
-![Screenshot from 2022-06-01 14-52-10](https://user-images.githubusercontent.com/89199990/171409504-660c258a-26c5-4854-a02d-f9b564ffc571.png)
+
 
 
 
@@ -32,7 +32,7 @@
 
 **About Project**
  - Description
-*Which cat are you based on your birth month?* - A webpage using Html in JavaScript, styled in Dom, to create a Popup game.
+*TODO LIST* - A webpage using Html, Css and JavaScript, to create a To Do List.
 
 
 * * *
@@ -42,7 +42,8 @@
  - [x] HTML5
  - [ ] CSS3
  - [ ] SASS
- - [ ] SCSS
+ - [X![Screenshot from 2022-06-08 09-14-40](https://user-images.githubusercontent.com/89199990/172555433-90c527d8-3e9a-422e-89d6-636d4b5ed59c.png)
+] SCSS
  - [X] JavaScript
  - [ ] React
  - [ ] Bootstrap
