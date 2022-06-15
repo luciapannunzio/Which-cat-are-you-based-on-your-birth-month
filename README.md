@@ -50,7 +50,7 @@
  - [X] JavaScript
  - [ ] React
  - [ ] Bootstrap
- - [x] npm
+ - [ ] npm
  - [X] Dom
  
  
